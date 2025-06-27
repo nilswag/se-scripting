@@ -21,7 +21,7 @@ using VRageMath;
 
 namespace AirlockScript
 {
-    public partial class Program : MyGridProgram
+    public class Program : MyGridProgram
     {
         // Start of script
         /*
